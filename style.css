@@ -31,6 +31,8 @@ div {
   display: inline-table;
   border-radius: 12px;
   margin-top: 40px;
+  right: 200px;
+  position: absolute;
 }
 
 #radio {
@@ -50,4 +52,6 @@ div {
 .Score {
     background-color: yellow;
     font-size: 2.5em;
+    right: 100px;
+    position: absolute;
 }

@@ -30,14 +30,3 @@ right ansuers:['149.597.870km', 'Andes', 'JESSIAN BROCKMOLE', 'Neil Armstrong', 
 },
 ]
 var ansuers=['ansuerQ1', 'ansuerQ2', 'ansuerQ3', 'ansuerQ4', 'ansuerQ5', 'ansuerQ6', 'ansuerQ7', 'ansuerQ8', 'ansuerQ9']
-var score =0;
-function myScore(ansuers){
-	for (var i=0; i<ansuers.length; i++) {
-     if (ansuers[i] === true){
-     	score = score +1;
-     }
-     return score;
-}
-}
-
-
